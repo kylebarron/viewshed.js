@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/nst-guide/viewshed-js/issues"
   },
-  "homepage": "https://github.com/nst-guide/viewshed-js#readme"
+  "homepage": "https://github.com/nst-guide/viewshed-js#readme",
+  "dependencies": {
+    "@mapbox/martini": "^0.1.0",
+    "get-pixels": "^3.3.2"
+  },
+  "devDependencies": {
+    "esm": "^3.2.25"
+  }
 }
